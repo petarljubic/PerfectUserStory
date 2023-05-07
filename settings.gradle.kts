@@ -1,0 +1,1 @@
+rootProject.name = "com.perfectuserstory.perfect-user-story"
